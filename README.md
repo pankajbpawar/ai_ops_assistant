@@ -60,15 +60,6 @@ ai_ops_assistant/
 
 Follow the steps below to run the project locally.
 
-### Step 1: Clone the Repository
-```bash
-git clone https://github.com/pankajbpawar/ai_ops_assistant.git
-cd ai_ops_assistant
-
-## How to Run the Project 
-
-Follow the steps below to run the project locally.
-
 # Step 1: Clone the Repository
 ```bash
 git clone https://github.com/pankajbpawar/ai_ops_assistant.git
@@ -91,6 +82,5 @@ GROQ_API_KEY=your_groq_api_key
 
 Step 5: Run the Application (One Command)
 python main.py
-
 
 
