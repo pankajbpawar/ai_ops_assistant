@@ -1,4 +1,4 @@
-# AI Operations Assistant – GenAI Intern Assignment
+# AI Operations Assistant 
 
 ## Overview
 This project implements an **AI Operations Assistant** using a **multi-agent architecture**
