@@ -84,3 +84,10 @@ Step 5: Run the Application (One Command)
 python main.py
 
 
+## Example Prompts
+
+1. What is the weather in Bangalore
+2. Find top python repositories on GitHub
+3. Find top python repositories and weather in Mumbai
+4. Show GitHub repositories for python and weather in Delhi
+
