@@ -54,3 +54,13 @@ ai_ops_assistant/
 ├── requirements.txt
 ├── .env.example
 └── README.md
+
+
+## How to Run the Project (For Reviewers)
+
+Follow the steps below to run the project locally.
+
+### Step 1: Clone the Repository
+```bash
+git clone https://github.com/pankajbpawar/ai_ops_assistant.git
+cd ai_ops_assistant
