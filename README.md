@@ -60,7 +60,7 @@ ai_ops_assistant/
 
 Follow the steps below to run the project locally.
 
-# Step 1: Clone the Repository
+# Steps: Clone the Repository
 ```bash
 git clone https://github.com/pankajbpawar/ai_ops_assistant.git
 cd ai_ops_assistant
